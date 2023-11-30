@@ -1,0 +1,10 @@
+{
+  "parent": "enderio:block/tinted_cube_all",
+  "render_type": "cutout",
+  "textures": {
+    "all": "enderio:block/clear_glass"
+  },
+  
+  "loader": "fusion:model",
+  "type": "fusion:connecting"
+}
